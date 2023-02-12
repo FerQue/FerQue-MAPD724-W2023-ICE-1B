@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5525F632299960D100691F6D /* Assets in Resources */ = {isa = PBXBuildFile; fileRef = 5525F631299960D100691F6D /* Assets */; };
 		55D1ACE12994A50A0008C53C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D1ACE02994A50A0008C53C /* AppDelegate.swift */; };
 		55D1ACE32994A50B0008C53C /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 55D1ACE22994A50B0008C53C /* GameScene.sks */; };
 		55D1ACE72994A50B0008C53C /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55D1ACE62994A50B0008C53C /* GameScene.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5525F631299960D100691F6D /* Assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Assets; sourceTree = "<group>"; };
 		55D1ACDD2994A50A0008C53C /* MAPD724-W2023-ICE-1B-VictorQuezada.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MAPD724-W2023-ICE-1B-VictorQuezada.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55D1ACE02994A50A0008C53C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55D1ACE22994A50B0008C53C /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 		55D1ACDF2994A50A0008C53C /* MAPD724-W2023-ICE-1B-VictorQuezada */ = {
 			isa = PBXGroup;
 			children = (
+				5525F631299960D100691F6D /* Assets */,
 				55D1ACE02994A50A0008C53C /* AppDelegate.swift */,
 				55D1ACE22994A50B0008C53C /* GameScene.sks */,
 				55D1ACE62994A50B0008C53C /* GameScene.swift */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5525F632299960D100691F6D /* Assets in Resources */,
 				55D1ACEC2994A50B0008C53C /* Main.storyboard in Resources */,
 				55D1ACE32994A50B0008C53C /* GameScene.sks in Resources */,
 				55D1ACEE2994A50D0008C53C /* Assets.xcassets in Resources */,
